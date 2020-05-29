@@ -1,4 +1,4 @@
-# Javascript-ES6-Essencial
+# Javascript-ES6-Essential
 Course made at Digital Inovation One 
 # Description
 I Still need to complete this note, but, content got from a bootcamp from
