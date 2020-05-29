@@ -1,3 +1,0 @@
-# Anotações sobre a aula:
-
-...
