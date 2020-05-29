@@ -1,4 +1,4 @@
-# Breve resumo da história da linguagem Javascript e características marcantes:
+# Linguagem Javascript e características marcantes:
 
 ## História
 Javascript foi lançado em Setembro de 1995 pela empresa Sun Microsystems, anteriormente chamada de Livescript. Teve seu nome alterado para Javascript devido ao lançamento da linguagem Java. Criada por Brendan Eich, ao qual trabalhava na Netscape e na Mozilla, o mesmo atuou como arquiteto principal na fundação da mesma.
