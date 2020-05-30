@@ -28,3 +28,4 @@ ES5, ES6, ES7, ES2018 e finalmente ES.Next que diz a respeito de implementaçõe
 
 ## Conceitos da Linguagem
 
+Javascript é uma linguagem interpretada, ou seja, seu código é executado de cima para baixo e o resultado dessa execução é imediatamente retornado, diferente de linguagens compiladas onde o código precisa ser convertido para rodar no computador como em C e C++.
