@@ -32,3 +32,15 @@ function primeiroGrauCurried(a) {
   let resultado = primeiroGrauCurried(3)(2)(42);
   
   console.log(resultado);
+
+  /*
+  
+    A vantagem de escrever uma função curried é que fica mais fácil de construir funções com base nas funções curried fixando alguns argumentos.
+
+    A função celsiusParaFahrenheit pode ser escrita assim:
+
+  */
+
+  let celsiusParaFahrenheit = primeiroGrauCurried(1.8)(32);
+
+  console.log(celsiusParaFahrenheit(25));
