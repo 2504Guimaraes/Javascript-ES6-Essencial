@@ -35,7 +35,9 @@ function primeiroGrauCurried(a) {
 
   /*
   
-    A vantagem de escrever uma função curried é que fica mais fácil de construir funções com base nas funções curried fixando alguns argumentos.
+    A vantagem de escrever uma função curried é que fica mais fácil de 
+    construir funções com base nas funções curried fixando alguns 
+    argumentos.
 
     A função celsiusParaFahrenheit pode ser escrita assim:
 
