@@ -12,7 +12,7 @@
 
     Abaixo um exemplo de como VAR não respeita escopo
     de bloco, dará um undefined mostrando q a variável
-    msm não atribuida existe dando undefined, em vez de um erro.
+    msm não atribuida existe, em vez de um erro.
 
 */
 
